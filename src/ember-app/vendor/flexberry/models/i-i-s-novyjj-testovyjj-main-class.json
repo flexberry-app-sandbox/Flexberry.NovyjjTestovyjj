@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISNovyjj_testovyjjMainClass",
+  "modelName": "i-i-s-novyjj-testovyjj-main-class",
+  "className": "MainClass",
+  "nameSpace": "IIS.Novyjj_testovyjj",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "iD",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "MainClassE",
+      "modelName": "i-i-s-novyjj-testovyjj-main-class",
+      "attrs": [
+        {
+          "name": "iD",
+          "caption": "ID",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "MainClassL",
+      "modelName": "i-i-s-novyjj-testovyjj-main-class",
+      "attrs": [
+        {
+          "name": "iD",
+          "caption": "ID",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

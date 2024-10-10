@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Main class",
+  "name": "IISNovyjj_testovyjjMainClassE",
+  "className": "MainClassE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-testovyjj-main-class",
+      "modelProjection": "MainClassE"
+    }
+  ]
+}

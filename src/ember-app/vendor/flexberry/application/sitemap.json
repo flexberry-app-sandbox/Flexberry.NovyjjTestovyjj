@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Novyjj_testovyjj",
+  "applicationTitle": "Novyjj_testovyjj",
+  "items": [
+    {
+      "link": null,
+      "menuName": "novyjj-testovyjj",
+      "caption": "Novyjj_testovyjj",
+      "title": "Novyjj_testovyjj",
+      "children": [
+        {
+          "link": "i-i-s-novyjj-testovyjj-main-class-l",
+          "menuName": null,
+          "caption": "Main class",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

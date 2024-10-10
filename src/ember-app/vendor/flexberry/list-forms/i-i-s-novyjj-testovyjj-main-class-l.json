@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-novyjj-testovyjj-main-class-e",
+  "editForm": "i-i-s-novyjj-testovyjj-main-class-e",
+  "external": false,
+  "caption": "Main class",
+  "name": "IISNovyjj_testovyjjMainClassL",
+  "className": "MainClassL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-testovyjj-main-class",
+      "modelProjection": "MainClassL"
+    }
+  ]
+}
